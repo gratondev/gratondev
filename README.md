@@ -17,9 +17,9 @@
 
 ## Experiência Profissional
 
-💻 &nbsp;[Out/2022 - Presente] IT Analyst na Rentokil  
-👨‍🏫 &nbsp;[Jul/2023 - Presente] Professor na Microcamp   
-👨‍🏫 &nbsp;[Ago/2021 - Ago/2022] Flutter Developer na HC  
+👨‍🏫 &nbsp;[Ago/2021 - Ago/2022] Flutter Developer na HC   
+💻 &nbsp;[Out/2022 - Presente] IT Analyst na Rentokil   
+👨‍🏫 &nbsp;[Jul/2023 - Presente] Professor na Microcamp    
 
 ## 🛠️ Skills
 
