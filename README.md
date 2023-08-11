@@ -9,16 +9,17 @@
 
 ## About me
 
-💻 &nbsp;Desenvolvedor Mobile
-👨‍🏫 &nbsp;Professor de Programação  
-📊 &nbsp;Graduando em Análise e Desenvolvimento de Sistemas pela Fiap
-⚡ &nbsp;Técnico em Iformática para a Internet pela Etec  
+💻 &nbsp;Desenvolvedor Mobile  
+👨‍🏫 &nbsp;Professor de Programação    
+📊 &nbsp;Graduando em Análise e Desenvolvimento de Sistemas  
+💻 &nbsp;Tecnico em Informática para a Internet       
+
 
 ## Experiência Profissional
 
-💻 &nbsp;[Out/2022 - Presente] IT Analyst na Rentokil
-👨‍🏫 &nbsp;[Jul/2023 - Presente] Professor na Microcamp 
-👨‍🏫 &nbsp;[Ago/2021 - Ago/2022] Flutter Developer na HC
+💻 &nbsp;[Out/2022 - Presente] IT Analyst na Rentokil  
+👨‍🏫 &nbsp;[Jul/2023 - Presente] Professor na Microcamp   
+👨‍🏫 &nbsp;[Ago/2021 - Ago/2022] Flutter Developer na HC  
 
 ## 🛠️ Skills
 
@@ -28,13 +29,16 @@
       <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" height="40"/>
 </a>
 <a href="#">
-      <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original-wordmark.svg" width="60" height="60"/>
+      <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="40" height="40"/>
 </a>
 <a href="#">   
-      <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original-wordmark.svg" width="60" height="60"/>
+      <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original-wordmark.svg" width="40" height="40"/>
 </a>
 <a href="#">
-     <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original-wordmark.svg" width="60" height="60"/>
+     <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="40" height="40"/>
+</a>
+<a href="#">
+     <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" width="40" height="40"/>
 </a>
 
 
@@ -55,13 +59,4 @@
 <a href="#">
       <img alt="NPM" src="https://img.shields.io/badge/NPM-CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" />
 </a>
-<!-- YARN -->
-<a href="#">
-      <img alt="Yarn" src="https://img.shields.io/badge/Yarn-2C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white" />
-</a>
-
-
-
-
-
 
