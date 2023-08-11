@@ -7,7 +7,7 @@
 
 <!--![Pedro Graton github stats](https://github-readme-stats.vercel.app/api?username=gratondev&show_icons=true&theme=tokyonight)-->
 
-## About me
+## Sobre mim
 
 💻 &nbsp;Desenvolvedor Mobile  
 👨‍🏫 &nbsp;Professor de Programação    
