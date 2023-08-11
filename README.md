@@ -5,7 +5,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-PedroGraton-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedro-graton-031857169/)](https://www.linkedin.com/in/pedro-graton-031857169/) 
 [![Gmail Badge](https://img.shields.io/badge/-grandrdep@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:grandrdep@gmail.com)](mailto:grandrdep@gmail.com)
 
-<!--![Walisson Silva's github stats](https://github-readme-stats.vercel.app/api?username=walissonsilva&show_icons=true&theme=tokyonight)-->
+<!--![Pedro Graton github stats](https://github-readme-stats.vercel.app/api?username=gratondev&show_icons=true&theme=tokyonight)-->
 
 ## About me
 
@@ -22,6 +22,29 @@
 
 ## 🛠️ Skills
 
+### :computer: Mobile Development
+
+<a href="#"> 
+      <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" height="40"/>
+</a>
+<a href="#">
+      <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original-wordmark.svg" width="60" height="60"/>
+</a>
+<a href="#">   
+      <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original-wordmark.svg" width="60" height="60"/>
+</a>
+<a href="#">
+     <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original-wordmark.svg" width="60" height="60"/>
+</a>
+
+
+### :computer: Front-End Development
+
+![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
 ### :wrench: Tools and environments
 
 <!-- GIT -->
@@ -37,28 +60,8 @@
       <img alt="Yarn" src="https://img.shields.io/badge/Yarn-2C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white" />
 </a>
 
-### :computer: Front-End Development
-
-![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 
-### :computer: Mobile Development
-
-<a href="#"> 
-      <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" height="40"/>
-</a>
-<a href="#">
-      <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original-wordmark.svg" width="40" height="40"/>
-</a>
-<a href="#">   
-      <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original-wordmark.svg" width="40" height="40"/>
-</a>
-<a href="#">
-     <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original-wordmark.svg" width="40" height="40"/>
-</a>
 
 
 
